@@ -20,7 +20,6 @@
 	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
 	<link rel="stylesheet" type="text/css" href="css/util.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
-	<link rel="stylesheet" type="text/css" href="Login/libs/css/main1.css">
 </head>
 <body>
 	<div class="limiter">
@@ -62,7 +61,6 @@
 	<script src="vendor/daterangepicker/daterangepicker.js"></script>
 	<script src="vendor/countdowntime/countdowntime.js"></script>
 	<script src="js/main.js"></script>
-
 </body>
 </html>
 <?php include_once('layouts/header.php'); ?>

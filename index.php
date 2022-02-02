@@ -17,7 +17,7 @@
         <link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/mobile.css">
-		<link rel="stylesheet" href="css/skin/cool-gray.css">
+		<link rel="stylesheet" href="css/skin/cool-gray1.css">
 	</head>
     <body data-spy="scroll" data-target="#main-navbar">
         <div class="page-loader"></div>
@@ -37,37 +37,37 @@
                         <a href="index.php"><img src="img/Logo.png" alt="FMIT" width="65" height="65"></a>
                         <ul class="nav navbar-nav navbar-right">
                             <li><a class="page-scroll" href="body">Home</a></li>
-                            <li><a class="page-scroll" href="#about-section">About</a></li>
-                            <li><a class="page-scroll" href="#services-section">Services</a></li>
-                            <li><a class="page-scroll" href="#portfolio-section">Works</a></li>
-                            <li><a class="page-scroll" href="#team-section">Team</a></li>                            
-                            <li><a class="page-scroll" href="#prices-section">Prices</a></li>
-                            <li><a class="page-scroll" href="#contact-section">Contact</a></li>
+                            <li><a class="page-scroll" href="#about-section">Proposito</a></li>
+                            <li><a class="page-scroll" href="#services-section">Servicios</a></li>
+                            <li><a class="page-scroll" href="#portfolio-section">Herramientas</a></li>
+                            <li><a class="page-scroll" href="#team-section">Equipo</a></li>                            
+                            <li><a class="page-scroll" href="#contact-section">Contacto</a></li>
+                            <li><a class="page-scroll" href="Login/index.php">Login <i class="glyphicon glyphicon-log-in"></i></a></li>
                         </ul>
                     </div>
                   </div>
                 </nav>
             </header>
-			<section id="text-carousel-intro-section" class="parallax" data-stellar-background-ratio="0.5" style="width: 100; background-position: 0px -900px; background-image: url(img/images.png);">
+			<section id="text-carousel-intro-section" class="parallax" data-stellar-background-ratio="0.5" style="width: 100; background-position: 0px -800px; background-image: url(img/images.png);">
 				<div class="container"><br><br>
 					<div class="caption text-center text-white" data-stellar-ratio="0.7">
 
 						<div id="owl-intro-text" class="owl-carousel">
 							<div class="item">
-								<h1>We have Awesome things</h1>
-								<p>Let's make the web beautiful together</p>
+								<h1>Bienvenido a FMIT</h1>
+								<p>Empieza con nosotros de una vez!</p>
                                 <div class="extra-space-l"></div>
 								<a class="btn btn-blank" href="Login/index.php" role="button">Login</a>
 							</div>
 							<div class="item">
-								<h1>Join with us</h1>
-								<p>To the greatest Journey</p>
+								<h1>Explora</h1>
+								<p>Organiza tus activos y explora nuvas capacidades</p>
 								<div class="extra-space-l"></div>
 								<a class="btn btn-blank" href="Login/index.php" role="button">Login</a>
 							</div>
 							<div class="item">
-								<h1>I'm Unika</h1>
-								<p>One Page Responsive Theme</p>
+								<h1>FMIT</h1>
+								<p>Formato Multidimensional de informacion de la tecnologia</p>
 								<div class="extra-space-l"></div>
 								<a class="btn btn-blank" href="Login/index.php" role="button">Login</a>
 							</div>
@@ -97,7 +97,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-md-3 col-sm-6">
                                 <a href="#" class="rotate-box-1 square-icon wow zoomIn" data-wow-delay="0.2s">
                                     <span class="rotate-box-icon"><i class="fa fa-diamond"></i></span>
@@ -107,7 +106,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-md-3 col-sm-6">
                                 <a href="#" class="rotate-box-1 square-icon wow zoomIn" data-wow-delay="0.4s">
                                     <span class="rotate-box-icon"><i class="fa fa-heart"></i></span>
@@ -117,7 +115,6 @@
                                     </div>
                                 </a>
                             </div>
-                            
                             <div class="col-md-3 col-sm-6">
                                 <a href="#" class="rotate-box-1 square-icon wow zoomIn" data-wow-delay="0.6s">
                                     <span class="rotate-box-icon"><i class="fa fa-clock-o"></i></span>
@@ -141,7 +138,6 @@
                 <div class="our-skills">
                 	<div class="container">
                     	<div class="row">
-                        
                         	<div class="col-sm-6">
                                 <div class="skill-bar wow slideInLeft" data-wow-delay="0.2s">
                                     <div class="progress-lebel">
@@ -153,7 +149,6 @@
                                     </div>
                                 </div>
                             </div>
-                            
                             <div class="col-sm-6">
                                 <div class="skill-bar wow slideInRight" data-wow-delay="0.2s">
                                     <div class="progress-lebel">
@@ -193,25 +188,6 @@
                         </div>
                     </div>
                 </div>
-          </section>
-          <section id="cta-section">
-          	<div class="cta">
-            	<div class="container">
-                	<div class="row">
-                    
-                    	<div class="col-md-9">
-                        	<h1>Download Our Pdf</h1>
-                            <p>Inspired by nature, follow technology, appreciate the classics. You can build modern & professional websites with Unika. The possibilities are just endless.</p>
-                        </div>
-                        
-                        <div class="col-md-3">
-                        	<div class="cta-btn wow bounceInRight" data-wow-delay="0.4s">
-                        <a class="btn btn-default btn-lg" href="http://www.imransdesign.com/" role="button">Download</a>
-                        	</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
           </section>
             <section id="services-section" class="page text-center">
                 <div class="page-header-wrapper">
@@ -634,115 +610,6 @@
                     </div>
                 </div>
             </section>
-			<section id="prices-section" class="page">
-                <div class="page-header-wrapper">
-                    <div class="container">
-                        <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                            <h2>Prices</h2>
-                            <div class="devider"></div>
-                            <p class="subtitle">That how much</p>
-                        </div>
-                    </div>
-                </div>
-				<div class="extra-space-l"></div>
-				<div class="prices">
-					<div class="container">
-						<div class="row">
-							
-							<div class="price-box col-sm-6 col-md-3 wow flipInY" data-wow-delay="0.3s">
-								<div class="panel panel-default">
-									<div class="panel-heading text-center">
-										<i class="fa fa-plug fa-2x"></i>
-										<h3>Basic</h3>
-									</div>
-									<div class="panel-body text-center">
-										<p class="lead"><strong>$49</strong></p>
-									</div>
-									<ul class="list-group text-center">
-										<li class="list-group-item">Personal Use</li>
-										<li class="list-group-item">3 projects</li>
-										<li class="list-group-item">1 GB Disk</li>
-										<li class="list-group-item">Custom Domain</li>
-										<li class="list-group-item">24/7 Support</li>
-									</ul>
-									<div class="panel-footer text-center">
-										<a class="btn btn-default" href="#">Order Now!</a>
-									</div>
-								</div>										
-							</div>
-
-							<div class="price-box col-sm-6 col-md-3 wow flipInY" data-wow-delay="0.5s">
-								<div class="panel panel-default">
-									<div class="panel-heading text-center">
-										<i class="fa fa-cog fa-2x"></i>
-										<h3>Advanced</h3>
-									</div>
-									<div class="panel-body text-center">
-										<p class="lead"><strong>$99</strong></p>
-									</div>
-									<ul class="list-group text-center">
-										<li class="list-group-item">Personal Use</li>
-										<li class="list-group-item">5 projects</li>
-										<li class="list-group-item">5 GB Disk</li>
-										<li class="list-group-item">Custom Domain</li>
-										<li class="list-group-item">24/7 Support</li>
-									</ul>
-									<div class="panel-footer text-center">
-										<a class="btn btn-default" href="#">Order Now!</a>
-									</div>
-								</div>										
-							</div>
-							
-							<div class="price-box col-sm-6 price-box-featured col-md-3 wow flipInY" data-wow-delay="0.7s">
-								<div class="panel panel-default">
-									<div class="panel-heading text-center">
-										<i class="fa fa-star fa-2x"></i>
-										<h3>Professional</h3>
-									</div>
-									<div class="panel-body text-center">
-										<p class="lead"><strong>$149</strong></p>
-									</div>
-									<ul class="list-group text-center">
-										<li class="list-group-item">Personal Use</li>
-										<li class="list-group-item">20 Projects</li>
-										<li class="list-group-item">20 GB Disk</li>
-										<li class="list-group-item">Custom Domain</li>
-										<li class="list-group-item">24/7 Support</li>
-									</ul>
-									<div class="panel-footer text-center">
-										<a class="btn btn-default" href="#">Order Now!</a>
-									</div>
-									<div class="price-box-ribbon"><strong>Popular</strong></div>
-								</div>										
-							</div>
-							
-							<div class="price-box col-sm-6 col-md-3 wow flipInY" data-wow-delay="0.9s">
-								<div class="panel panel-default">
-									<div class="panel-heading text-center">
-										<i class="fa fa-plus fa-2x"></i>
-										<h3>Ultimate</h3>
-									</div>
-									<div class="panel-body text-center">
-										<p class="lead"><strong>$199</strong></p>
-									</div>
-									<ul class="list-group text-center">
-										<li class="list-group-item">Multi Use</li>
-										<li class="list-group-item">Unlimited Projects</li>
-										<li class="list-group-item">99 GB Disk</li>
-										<li class="list-group-item">Custom Domain</li>
-										<li class="list-group-item">24/7 Support</li>
-									</ul>
-									<div class="panel-footer text-center">
-										<a class="btn btn-default" href="#">Order Now!</a>
-									</div>
-								</div>										
-							</div>
-						</div> 
-					</div>
-				</div>
-				<div class="extra-space-l"></div>
-			</section>
-			<section id="social-section">
                 <div class="page-header-wrapper">
                     <div class="container">
                         <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
@@ -863,7 +730,7 @@
                 </div>
                 <div class="footer">
                     <div class="container text-center wow fadeIn" data-wow-delay="0.4s">
-                        <p class="copyright">Copyright &copy; 2015 - Designed By <a href="https://www.behance.net/poljakova" class="theme-author">Veronika Poljakova</a> &amp; Developed by <a href="http://www.imransdesign.com/" class="theme-author">Imransdesign</a></p>
+                        <p class="copyright">Copyright &copy; 2022 - Designed By <a href="" class="theme-author">Filleral Mahecha</a> &amp; Developed by <a href="" class="theme-author">Fmahecha</a></p>
                     </div>
                 </div>
             </footer>

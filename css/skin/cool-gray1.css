@@ -14,13 +14,13 @@ a, a:hover, a:focus {
   background-color: #515284;
 }
 .navbar-default .navbar-nav > li > a {
-	color: #a9a9a9;
+	color: #ffffff;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li.active > a, .navbar-default .navbar-nav>.active>a {
-	color: #fff !important;
+	color: rgb(0, 0, 0) !important;
 }
 .navbar-default.navbar-fixed-top.navbar-shrink .navbar-nav > li > a {
-	color: #a9a9a9;
+	color: #ffffff;
 }
 .navbar-default.navbar-shrink .navbar-nav > li > a:hover, .navbar-default.navbar-shrink .navbar-nav > li > a:focus, .navbar-default.navbar-shrink .navbar-nav > li.active > a {
 	color: #fff;
@@ -145,7 +145,7 @@ a, a:hover, a:focus {
 
 /* === Portfolio === */
 .active_prot_menu a, .portfolio_menu ul li a:hover{
-	background: #363940 !important;
+	background: #000000 !important;
 	color: #fff !important;
 }
 .portfolio_single_content div{
