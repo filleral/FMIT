@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>FMIT | FLOWERS</title>
+	<title>FMIT</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">	
 	<link rel="icon" type="image/png" href="images/icons/FMIT Flowers-modified.png"/>
@@ -19,11 +19,10 @@
 	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">	
 	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
 	<link rel="stylesheet" type="text/css" href="css/util.css">
-	<link rel="stylesheet" type="text/css" href="libs/css/main.css">
-	<link rel="stylesheet" type="text/css" href="css/main1.css">
+	<link rel="stylesheet" type="text/css" href="libs/css/main1.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body id="body">
-
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100 p-t-30 p-b-50">

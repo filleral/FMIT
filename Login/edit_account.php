@@ -44,10 +44,10 @@
 ?>
 <?php include_once('layouts/header.php'); ?>
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-11">
     <?php echo display_msg($msg); ?>
   </div>
-  <div class="col-md-6">
+  <div class="col-md-7">
       <div class="panel panel-default">
         <div class="panel-heading">
           <div class="panel-heading clearfix">

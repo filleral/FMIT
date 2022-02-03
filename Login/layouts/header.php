@@ -7,17 +7,17 @@
            echo remove_junk($page_title);
             elseif(!empty($user))
            echo ucfirst($user['name']);
-            else echo "FMIT | FLOWERS";?>
+            else echo "FMIT";?>
     </title>
 	
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker3.min.css" />
-    <link rel="stylesheet" href="libs/css/main.css" />
+    <link rel="stylesheet" href="libs/css/main1.css"/>
   </head>
   <body>
   <?php  if ($session->isUserLoggedIn(true)): ?>
     <header id="header">
-      <div class="logo pull-left"> FMIT | FLOWERS </div>
+      <div class="logo pull-left"> FMIT</div>
       <div class="header-content">
       <div class="header-date pull-left">
         <strong>

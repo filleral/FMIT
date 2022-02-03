@@ -11,7 +11,7 @@ if(empty($errors)){
      $session->login($user_id);
     //Actualizar hora de inicio de sesión
      updateLastLogIn($user_id);
-     $session->msg("s", "Bienvenido a FMIT | FLOWERS");
+     $session->msg("s", "Bienvenido a FMIT");
      redirect('home.php',false);
   } else {
     $session->msg("d", "Nombre de usuario y/o contraseña incorrecto.");

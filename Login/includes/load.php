@@ -1,5 +1,4 @@
 <link rel="icon" type="image/png" href="images/icons/FMIT Flowers-modified.png"/>
-
 <?php
 // DEFINIR ALIAS DE SEPARADOR
 define("URL_SEPARATOR", '/');
