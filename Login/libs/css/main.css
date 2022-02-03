@@ -3,8 +3,8 @@ body{
   font-weight: 400;
   overflow-x: hidden;
   overflow-y: auto;
-  background-image:url();
-  background-position: center;
+  background-image:url('../../images/Nuevo_Logo_Elite_Flower_RGB\ horizontal_Mesa\ de\ trabajo\ 1\ copia.png');
+  background-position: 100;
   background-size: cover;
   background-attachment: fixed;
   width: 100%;

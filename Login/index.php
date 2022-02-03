@@ -19,11 +19,13 @@
 	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">	
 	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
 	<link rel="stylesheet" type="text/css" href="css/util.css">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="libs/css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/main1.css">
 </head>
-<body>
+<body id="body">
+
 	<div class="limiter">
-		<div class="container-login100" style="background-image: url('images/3396d2a0d00f4e3dab2fc90648f89278.jpg');">
+		<div class="container-login100">
 			<div class="wrap-login100 p-t-30 p-b-50">
             <?php echo display_msg($msg); ?>
 			<a href="../index.php"><i class="glyphicon glyphicon-circle-arrow-left">Volver</a></i>

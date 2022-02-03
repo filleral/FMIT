@@ -8,6 +8,7 @@ function find_all($table) {
      return find_by_sql("SELECT * FROM ".$db->escape($table));
    }
 }
+
 /* Función para realizar consultas */
 function find_by_sql($sql)
 {

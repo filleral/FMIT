@@ -57,19 +57,19 @@
 								<h1>Bienvenido a FMIT</h1>
 								<p>Empieza con nosotros de una vez!</p>
                                 <div class="extra-space-l"></div>
-								<a class="btn btn-blank" href="Login/index.php" role="button">Login</a>
+								<a class="btn btn-blank" href="" role="button">Boton</a>
 							</div>
 							<div class="item">
 								<h1>Explora</h1>
 								<p>Organiza tus activos y explora nuvas capacidades</p>
 								<div class="extra-space-l"></div>
-								<a class="btn btn-blank" href="Login/index.php" role="button">Login</a>
+								<a class="btn btn-blank" href="" role="button">Boton</a>
 							</div>
 							<div class="item">
 								<h1>FMIT</h1>
 								<p>Formato Multidimensional de informacion de la tecnologia</p>
 								<div class="extra-space-l"></div>
-								<a class="btn btn-blank" href="Login/index.php" role="button">Login</a>
+								<a class="btn btn-blank" href="" role="button">Boton</a>
 							</div>
 						</div>
 					</div>
@@ -79,9 +79,9 @@
                 <div class="page-header-wrapper">
                     <div class="container">
                         <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                            <h2>About</h2>
+                            <h2>Proposito</h2>
                             <div class="devider"></div>
-                            <p class="subtitle">little information</p>
+                            <p class="subtitle">¿Que te ofresco?</p>
                         </div>
                     </div>
                 </div>
@@ -90,10 +90,10 @@
                         <div class="row">
                             <div class="col-md-3 col-sm-6">
                                 <a href="#" class="rotate-box-1 square-icon wow zoomIn" data-wow-delay="0">
-                                    <span class="rotate-box-icon"><i class="fa fa-users"></i></span>
+                                    <span class="rotate-box-icon"><i class="fa fa-bolt"></i></span>
                                     <div class="rotate-box-info">
-                                        <h4>Who We Are?</h4>
-                                        <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
+                                        <h4>¿Quien soy?</h4>
+                                        <p>Soy un software diseñado en web que te ayudar a organizar y a mantener bajo resgualdo todos tus activos</p>
                                     </div>
                                 </a>
                             </div>
@@ -101,94 +101,32 @@
                                 <a href="#" class="rotate-box-1 square-icon wow zoomIn" data-wow-delay="0.2s">
                                     <span class="rotate-box-icon"><i class="fa fa-diamond"></i></span>
                                     <div class="rotate-box-info">
-                                        <h4>What We Do?</h4>
-                                        <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
+                                        <h4>¿En que te ayudo?</h4>
+                                        <p>Te ayudo a hacer salidas y a encontrar objetos con mas facilidad si no recuerdas donde estuvo por ultima vez, etc</p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-md-3 col-sm-6">
                                 <a href="#" class="rotate-box-1 square-icon wow zoomIn" data-wow-delay="0.4s">
-                                    <span class="rotate-box-icon"><i class="fa fa-heart"></i></span>
+                                    <span class="rotate-box-icon"><i class="fa fa-cloud"></i></span>
                                     <div class="rotate-box-info">
-                                        <h4>Why We Do It?</h4>
-                                        <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
+                                        <h4>¿web?</h4>
+                                        <p>Si podras usar FMIT en tu equipo en tu celular movil para aprobechar al maximo los recursos que te ofrezco</p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-md-3 col-sm-6">
                                 <a href="#" class="rotate-box-1 square-icon wow zoomIn" data-wow-delay="0.6s">
-                                    <span class="rotate-box-icon"><i class="fa fa-clock-o"></i></span>
+                                    <span class="rotate-box-icon"><i class="fa fa-heart"></i></span>
                                     <div class="rotate-box-info">
-                                        <h4>Since When?</h4>
-                                        <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
+                                        <h4>¿Confiable?</h4>
+                                        <p>Organizare y te mantendre al tanto de cada activo que salga en el area de tecnologia</p>
                                     </div>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="extra-space-l"></div>
-                <div class="page-header-wrapper">
-                    <div class="container">
-                        <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                            <h4>Our Skills</h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="our-skills">
-                	<div class="container">
-                    	<div class="row">
-                        	<div class="col-sm-6">
-                                <div class="skill-bar wow slideInLeft" data-wow-delay="0.2s">
-                                    <div class="progress-lebel">
-                                        <h6>Photoshop & Illustrator</h6>
-                                    </div>
-                                    <div class="progress">
-                                      <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-                                      </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="skill-bar wow slideInRight" data-wow-delay="0.2s">
-                                    <div class="progress-lebel">
-                                        <h6>WordPress</h6>
-                                    </div>
-                                    <div class="progress">
-                                      <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
-                                      </div>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div class="col-sm-6">
-                                <div class="skill-bar wow slideInLeft" data-wow-delay="0.4s">
-                                    <div class="progress-lebel">
-                                        <h6>Html & Css</h6>
-                                    </div>
-                                    <div class="progress">
-                                      <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%;">
-                                      </div>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div class="col-sm-6">
-                                <div class="skill-bar wow slideInRight" data-wow-delay="0.4s">
-                                    <div class="progress-lebel">
-                                        <h6>Javascript</h6>
-                                    </div>
-                                    <div class="progress">
-                                      <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-                                      </div>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-          </section>
             <section id="services-section" class="page text-center">
                 <div class="page-header-wrapper">
                     <div class="container">
@@ -241,7 +179,6 @@
                         </div> 
                     </div>
                     <div class="container">
-                        <!-- Cta Button -->
                         <div class="extra-space-l"></div>
                         <div class="text-center">
                     		<a class="btn btn-default btn-lg-xl" href="http://www.imransdesign.com/" role="button">Large Button</a>
