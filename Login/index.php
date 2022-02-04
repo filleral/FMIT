@@ -28,8 +28,8 @@
 			<div class="wrap-login100 p-t-30 p-b-50">
             <?php echo display_msg($msg); ?>
 			<a href="../index.php"><i class="glyphicon glyphicon-circle-arrow-left">Volver</a></i>
-				<span class="login100-form-title p-b-41">
-					BIENVENDIO FMIT
+			<span class="login100-form-title p-b-41">
+				BIENVENDIO FMIT
 				</span>
 				<form method="post" action="auth.php" class="login100-form validate-form p-b-33 p-t-5">
 					

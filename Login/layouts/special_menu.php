@@ -8,7 +8,7 @@
   <li>
     <a href="categorie.php" >
       <i class="glyphicon glyphicon-indent-left"></i>
-      <span>Categorías</span>
+      <span>CADT</span>
     </a>
   </li>
   <li>

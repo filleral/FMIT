@@ -1,3 +1,4 @@
+<nav>
 <ul>
   <li>
     <a href="admin.php">
@@ -37,3 +38,4 @@
       <span>Media</span>
 </a>
 </ul>
+</nav>

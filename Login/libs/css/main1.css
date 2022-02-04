@@ -8,7 +8,15 @@ body{
   background-size: cover;
   background-attachment: fixed;
   width: 100%;
-}a{
+}
+
+h3 {
+  color: white;
+}
+label.control-label {
+  color: white;
+}
+a{
   color:rgb(0, 0, 0);
   text-decoration: none;
 }.padding-top{
@@ -17,7 +25,7 @@ body{
   width: 350px;
   margin: 7% auto;
   padding: 0 20px;
-  background-color: #4d3838;
+  background-color: #61349c;
   border: 1px solid #f2f2f2;
 }.login-page .text-center{
   margin-bottom: 10px;
@@ -33,6 +41,13 @@ body{
   padding: 35px 15px 20px 270px;
 }
 
+i.glyphicon.glyphicon-circle-arrow-left {
+    color: white;
+}
+i.glyphicon.glyphicon-circle-arrow-left:hover {
+  color: #7831b3;
+}
+
 .bg-green{
   background-color: #A3C86D;
 }
@@ -43,7 +58,7 @@ body{
   background-color: #FDD761;
 }
 .bg-red{
-  background-color: #FF7857;
+  background-color: #6f37d6;
 }
 .panel-default >.panel-heading{
   background-color: #f5f5f5;
@@ -101,7 +116,7 @@ body{
     width: 250px;
      background-color: #504fb3;
 }.header-date{
-  color: #9b9b9b;
+  color: #ffffff;
   margin-left: 20px;
 }
 .info-menu{
@@ -115,7 +130,7 @@ body{
   text-decoration: none;
   text-align: center;
   font-size: 14px;
-  color: rgba(150, 150, 158, 1.0);
+  color: rgb(0, 0, 0);
   position: relative;
   padding: 10px 10px 10px 0;
   margin: 0;
@@ -176,7 +191,7 @@ body{
 }.sidebar ul li a:hover {
   color: white;
 }.sidebar ul li a,ul.submenu li a {
-  color: #aeb2b7;
+  color: #ffffff;
   display: block;
   overflow: hidden;
   position: relative;

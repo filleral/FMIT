@@ -23,7 +23,7 @@ if(isset($_POST['edit_cat'])){
        $sql .= " WHERE id='{$categorie['id']}'";
      $result = $db->query($sql);
      if($result && $db->affected_rows() === 1) {
-       $session->msg("s", "Categoría actualizada con éxito.");
+       $session->msg("s", "CADT actualizada con éxito.");
        redirect('categorie.php',false);
      } else {
        $session->msg("d", "Lo siento, actualización falló.");

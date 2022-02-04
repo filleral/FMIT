@@ -169,7 +169,7 @@ function tableExists($table){
             redirect('home.php', false);
         endif;
      }
-   /* Función para encontrar todos los nombres de productos JOIN con la categoría y la tabla de la base de datos de medios*/
+   /* Función para encontrar todos los nombres de productos JOIN con la CADT y la tabla de la base de datos de medios*/
   function join_product_table(){
      global $db;
      $sql  =" SELECT p.id,p.name,p.quantity,p.buy_price,p.sale_price,p.media_id,p.date,c.name";
@@ -216,7 +216,7 @@ Solicitud proveniente de ajax.php para sugerencia automática*/
    $sql  .= " ORDER BY p.id DESC LIMIT ".$db->escape((int)$limit);
    return find_by_sql($sql);
  }
-  /* Función para mostrar categoría reciente añadida*/
+  /* Función para mostrar CADT reciente añadida*/
   function find_recent_categorie_added($limit){
     global $db;
     $sql  = "SELECT c.id,c.name";

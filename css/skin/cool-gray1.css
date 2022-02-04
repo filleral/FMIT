@@ -251,7 +251,7 @@ a, a:hover, a:focus {
 
 .navbar-collapse {
 		background-color: #000000;
-		border-color: #fff !important;
+		border-color: rgb(0, 0, 0) !important;
 	}
 .navbar-default.navbar-shrink .navbar-nav > li.active > a {
 	box-shadow: none !important;

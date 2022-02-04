@@ -74,7 +74,7 @@
                 <div class="row">
                   <div class="col-md-6">
                     <select class="form-control" name="product-categorie">
-                      <option value="">Selecciona una categoría</option>
+                      <option value="">Selecciona una CADT</option>
                     <?php  foreach ($all_categories as $cat): ?>
                       <option value="<?php echo (int)$cat['id'] ?>">
                         <?php echo $cat['name'] ?></option>
@@ -98,7 +98,7 @@
                  <div class="col-md-4">
                    <div class="input-group">
                      <span class="input-group-addon">
-                      <i class="glyphicon glyphicon-shopping-cart"></i>
+                      <i class="glyphicon glyphicon-plus"></i>
                      </span>
                      <input type="number" class="form-control" name="product-quantity" placeholder="Cantidad">
                   </div>
@@ -106,20 +106,18 @@
                  <div class="col-md-4">
                    <div class="input-group">
                      <span class="input-group-addon">
-                       <i class="glyphicon glyphicon-usd"></i>
+                       <i class="glyphicon glyphicon-list-alt"></i>
                      </span>
-                     <input type="number" class="form-control" name="buying-price" placeholder="Precio de compra">
-                     <span class="input-group-addon">.00</span>
+                     <input type="date" class="form-control" name="buying-price" placeholder="Fecha">
                   </div>
                  </div>
                   <div class="col-md-4">
                     <div class="input-group">
                       <span class="input-group-addon">
-                        <i class="glyphicon glyphicon-usd"></i>
+                        <i class="glyphicon glyphicon-cog"></i>
                       </span>
-                      <input type="number" class="form-control" name="saleing-price" placeholder="Precio de venta">
-                      <span class="input-group-addon">.00</span>
-                   </div>
+                      <input id="foo" type="text" class="form-control" name="saleing-price" placeholder="Serial">
+                   </div> 
                   </div>
                </div>
               </div>

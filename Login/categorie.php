@@ -1,5 +1,5 @@
 <?php
-  $page_title = 'Lista de categorías';
+  $page_title = 'Lista de CADT';
   require_once('includes/load.php');
   // Checkin What level user has permission to view this page
   page_require_level(1);
@@ -15,7 +15,7 @@
       $sql  = "INSERT INTO categories (name)";
       $sql .= " VALUES ('{$cat_name}')";
       if($db->query($sql)){
-        $session->msg("s", "Categoría agregada exitosamente.");
+        $session->msg("s", "CADT agregada exitosamente.");
         redirect('categorie.php',false);
       } else {
         $session->msg("d", "Lo siento, registro falló");
@@ -40,15 +40,15 @@
         <div class="panel-heading">
           <strong>
             <span class="glyphicon glyphicon-th"></span>
-            <span>Agregar categoría</span>
+            <span>Agregar CADT</span>
          </strong>
         </div>
         <div class="panel-body">
           <form method="post" action="categorie.php">
             <div class="form-group">
-                <input type="text" class="form-control" name="categorie-name" placeholder="Nombre de la categoría" required>
+                <input type="text" class="form-control" name="categorie-name" placeholder="Nombre de la CADT" required>
             </div>
-            <button type="submit" name="add_cat" class="btn btn-primary">Agregar categoría</button>
+            <button type="submit" name="add_cat" class="btn btn-primary">Agregar CADT</button>
         </form>
         </div>
       </div>
@@ -58,7 +58,7 @@
       <div class="panel-heading">
         <strong>
           <span class="glyphicon glyphicon-th"></span>
-          <span>Lista de categorías</span>
+          <span>Lista de CADT</span>
        </strong>
       </div>
         <div class="panel-body">
@@ -66,7 +66,7 @@
             <thead>
                 <tr>
                     <th class="text-center" style="width: 50px;">#</th>
-                    <th>Categorías</th>
+                    <th>CADT</th>
                     <th class="text-center" style="width: 100px;">Acciones</th>
                 </tr>
             </thead>
