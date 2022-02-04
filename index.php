@@ -36,7 +36,7 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <a href="index.php"><img src="img/Logo.png" alt="FMIT" width="65" height="65"></a>
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a class="page-scroll" href="body">Home</a></li>
+                            <li><a class="page-scroll" href="body"><i class="glyphicon glyphicon-home"> Home</i></a></li>
                             <li><a class="page-scroll" href="#about-section">Proposito</a></li>
                             <li><a class="page-scroll" href="#services-section">Servicios</a></li>
                             <li><a class="page-scroll" href="#portfolio-section">Herramientas</a></li>
