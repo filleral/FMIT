@@ -56,19 +56,19 @@
 								<h1>Bienvenido a FMIT</h1>
 								<p>Empieza con nosotros de una vez!</p>
                                 <div class="extra-space-l"></div>
-								<a class="btn btn-blank" href="darkness/index.php" role="button">Boton</a>
+								<a class="btn btn-blank" href="darkness/index.php" role="button">Ver mas</a>
 							</div>
 							<div class="item">
 								<h1>Explora</h1>
 								<p>Organiza tus activos y explora nuvas capacidades</p>
 								<div class="extra-space-l"></div>
-								<a class="btn btn-blank" href="darkness/index.php" role="button">Boton</a>
+								<a class="btn btn-blank" href="darkness/index.php" role="button">Ver mas</a>
 							</div>
 							<div class="item">
 								<h1>FMIT</h1>
 								<p>Formato Multidimensional de informacion de la tecnologia</p>
 								<div class="extra-space-l"></div>
-								<a class="btn btn-blank" href="darkness/index.php" role="button">Boton</a>
+								<a class="btn btn-blank" href="darkness/index.php" role="button">Ver mas</a>
 							</div>
 						</div>
 					</div>
