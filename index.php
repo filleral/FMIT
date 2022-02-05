@@ -39,7 +39,6 @@
                             <li><a class="page-scroll" href="body"><i class="glyphicon glyphicon-home"> Home</i></a></li>
                             <li><a class="page-scroll" href="#about-section">Proposito</a></li>
                             <li><a class="page-scroll" href="#services-section">Servicios</a></li>
-                            <li><a class="page-scroll" href="#portfolio-section">Herramientas</a></li>
                             <li><a class="page-scroll" href="#team-section">Equipo</a></li>                            
                             <li><a class="page-scroll" href="#contact-section">Contacto</a></li>
                             <li><a class="page-scroll" href="Login/index.php">Login <i class="glyphicon glyphicon-log-in"></i></a></li>
@@ -133,7 +132,7 @@
                         <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
                             <h2>Servicios</h2>
                             <div class="devider"></div>
-                            <p class="subtitle">what we really know how</p>
+                            <p class="subtitle">¿Que te ofrece este sitio web?</p>
                         </div>
                     </div>
                 </div>
@@ -144,8 +143,8 @@
                                 <a href="#" class="rotate-box-2 square-icon text-center wow zoomIn" data-wow-delay="0">
                                     <span class="rotate-box-icon"><i class="fa fa-mobile"></i></span>
                                     <div class="rotate-box-info">
-                                        <h4>App Development</h4>
-                                        <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
+                                        <h4>Ordenar</h4>
+                                        <p>Ordena cada uno de tus lugares de trabajo y te da un conocimineto previo de lo que hay en cada una</p>
                                     </div>
                                 </a>
                             </div>
@@ -153,8 +152,8 @@
                                 <a href="#" class="rotate-box-2 square-icon text-center wow zoomIn" data-wow-delay="0.2s">
                                     <span class="rotate-box-icon"><i class="fa fa-pie-chart"></i></span>
                                     <div class="rotate-box-info">
-                                        <h4>Ui Design</h4>
-                                        <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
+                                        <h4>Datos</h4>
+                                        <p>Te mostrara detalladamente los datos que tiene cada uno de tus helementos de trabajo</p>
                                     </div>
                                 </a>
                             </div>
@@ -162,8 +161,8 @@
                                 <a href="#" class="rotate-box-2 square-icon text-center wow zoomIn" data-wow-delay="0.4s">
                                     <span class="rotate-box-icon"><i class="fa fa-cloud"></i></span>
                                     <div class="rotate-box-info">
-                                        <h4>Cloud Hosting</h4>
-                                        <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
+                                        <h4>Salidas</h4>
+                                        <p>Te dira que salidas se hacen y con que frecuencia salen los actvios de cada CADT</p>
                                     </div>
                                 </a>
                             </div>
@@ -171,8 +170,8 @@
                                 <a href="#" class="rotate-box-2 square-icon text-center wow zoomIn" data-wow-delay="0.6s">
                                     <span class="rotate-box-icon"><i class="fa fa-pencil"></i></span>
                                     <div class="rotate-box-info">
-                                        <h4>Coding Pen</h4>
-                                        <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
+                                        <h4>¿CADT?</h4>
+                                        <p>Centro de acopio de dispositivos tecnologicos</p>
                                     </div>
                                 </a>
                             </div>
@@ -181,168 +180,9 @@
                     <div class="container">
                         <div class="extra-space-l"></div>
                         <div class="text-center">
-                    		<a class="btn btn-default btn-lg-xl" href="http://www.imransdesign.com/" role="button">Large Button</a>
+                    		<a class="btn btn-default btn-lg-xl" href="darkness/index.php" role="button">Conoce mas</a>
                         </div>
                     </div>                     
-                </div>
-            </section>
-            <section id="testimonial-section">
-                <div id="testimonial-trigger" class="testimonial text-white parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/testimonial-bg.jpg);">
-                    <div class="cover"></div>
-                    <div class="page-header-wrapper">
-                        <div class="container">
-                            <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                                <h2>Reviews</h2>
-                                <div class="devider"></div>
-                                <p class="subtitle">What people say about us</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="container">
-                        <div class="testimonial-inner center-block text-center">
-                            <div id="owl-testimonial" class="owl-carousel">
-                                <div class="item">
-                                    <blockquote>
-                                        <p>"This was my first experience with that team and outperformed my expectation! They know there stuff and I highly recommend them! A+++".</p>
-                                        <footer><cite title="Source Title">Daryl Hodgeman</cite></footer>
-                                    </blockquote>
-                                </div>
-                                <div class="item">
-                                    <blockquote>
-                                        <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua."</p>
-                                        <footer><cite title="Source Title">John Doe</cite></footer>
-                                    </blockquote>
-                                </div>
-                                <div class="item">
-                                    <blockquote>
-                                        <p>"Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                        proident, sunt in culpa qui officia deserunt mollit".</p>
-                                        <footer><cite title="Source Title">John Doe</cite></footer>
-                                    </blockquote>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section id="portfolio-section" class="page bg-style1">
-            	<div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="portfolio">
-                                <div class="page-header-wrapper">
-                                    <div class="container">
-                                        <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                                            <h2>Our Works</h2>
-                                            <div class="devider"></div>
-                                            <p class="subtitle">What we are proud of</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="portfoloi_content_area" >
-                                    <div class="portfolio_menu" id="filters">
-                                        <ul>
-                                            <li class="active_prot_menu"><a href="#porfolio_menu" data-filter="*">all</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".websites">websites</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".webDesign" >web design</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".appsDevelopment">apps development</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".GraphicDesign">graphic design</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".responsive">responsive</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="portfolio_content">
-                                        <div class="row"  id="portfolio">
-                                            <div class="col-xs-12 col-sm-4 appsDevelopment">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p1.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Skull Awesome</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 GraphicDesign">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p2.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Photo Frame</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 responsive">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p3.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Hand Shots</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 webDesign websites">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p4.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Night Abstract</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 appsDevelopment websites">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img//portfolio/p5.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Joy of Independence</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 GraphicDesign">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p6.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Night Crawlers</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 responsive">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p7.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Last Motel</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 GraphicDesign">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p8.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Dirk Road</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 websites">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p9.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Old is Gold</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </section>
             <section id="counter-section">                					
