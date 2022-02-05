@@ -69,7 +69,7 @@ i.glyphicon.glyphicon-circle-arrow-left:hover {
   padding: 15px;
 }.panel-box{
   width: 100%;
-  height: 22%;
+  height: min-content;
   text-align: center;
   border: none;
 }.panel-value{
